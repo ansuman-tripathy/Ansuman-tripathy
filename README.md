@@ -1,2 +1,0 @@
-# ansuman-tripathy
- 
