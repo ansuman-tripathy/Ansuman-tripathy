@@ -10,7 +10,7 @@
 </p>
 
 ## Hi there 👋,           
-<strong>I'm Ansuman Tripathy, a Student at 👨‍💻 VSS University of Technology(Formerly Known UCE,Burla) Pursuing BTech.  I am a technology enthusiast, Would love to be a Teamster at any organisation, learn things and actively contribute.</strong>  
+<strong>I'm Ansuman Tripathy, a Student at 👨‍💻 VSS University of Technology(Formerly Known UCE,Burla) majoring in Electrical and Electronics Engineering.  I am a technology enthusiast, Would love to be a Teamster at any organisation, learn things and actively contribute.</strong>  
 
 ## 🧐 About
 <strong>- 🏄‍ Love to solve problems present in my local surroundings.</strong>
